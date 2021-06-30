@@ -1,0 +1,8 @@
+opencv-python
+numpy
+tensorflow
+scikit-learn
+Pillow
+matplotlib
+tabulate
+
